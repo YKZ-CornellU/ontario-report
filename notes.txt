@@ -1,1 +1,2 @@
 We plotted temprature and cell abundance.
+Every dots represents a sample. 
